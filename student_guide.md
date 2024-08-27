@@ -1,6 +1,6 @@
 # By Design UI Workshop
 
-## Student Guide: UI Design Crash Course (45-60 minutes)
+## Student Guide: Interactive UI Design Crash Course (45-60 minutes)
 
 **Objective**: This course is designed to to equip you with a practical understanding of the essentials of UI Design, covering areas like layout, composition, typography, and color theory. By the end, you'll have a solid grasp of the principles needed to create user interfaces that are both effective and visually appealing..
 

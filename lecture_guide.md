@@ -1,6 +1,6 @@
 # By Design UI Workshop
 
-## Lecture Guide: UI Design Crash Course (45-60 minutes)
+## Lecture Guide: Interactive UI Design Crash Course (45-60 minutes)
 
 ### 1. Introduction to UI Design (5 minutes)
 
