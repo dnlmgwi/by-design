@@ -52,6 +52,7 @@
   - **Accessibility**: Making the design accessible to all users, including those with disabilities.
 - **References:**
   - [UI Design Principles](https://refactoringui.com/)
+  - [Practical UI](https://www.practical-ui.com/)
 
 ### 5. Design Patterns and Components (10 minutes)
 

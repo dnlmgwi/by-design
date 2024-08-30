@@ -32,6 +32,7 @@
 - [Layout Design](https://edu.gcfglobal.org/en/beginning-graphic-design/layout-and-composition/1/)
 - [Golden Ratio](https://www.interaction-design.org/literature/article/the-golden-ratio-principles-of-form-and-layout)
 - [UI Patterns](http://ui-patterns.com/patterns)
+- [Practical UI](https://www.practical-ui.com/)
 
 ### Practical Exercise
 
