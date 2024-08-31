@@ -41,6 +41,7 @@
   - [Layout Design Basics](https://edu.gcfglobal.org/en/beginning-graphic-design/layout-and-composition/1/)
   - [Golden Ratio in Design](https://www.interaction-design.org/literature/article/the-golden-ratio-principles-of-form-and-layout)
   - [Layout Design](https://www.socialectric.com/insights/layout-design-getting-to-know-its-principles-why-is-it-so-important-to-visual-designs)
+  - [Laws of UX](https://lawsofux.com/)
 
 ### 4. UI Design Principles (10 minutes)
 
@@ -53,6 +54,7 @@
 - **References:**
   - [UI Design Principles](https://refactoringui.com/)
   - [Practical UI](https://www.practical-ui.com/)
+  - [Laws of UX](https://lawsofux.com/)
 
 ### 5. Design Patterns and Components (10 minutes)
 

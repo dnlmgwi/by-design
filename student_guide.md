@@ -33,6 +33,7 @@
 - [Golden Ratio](https://www.interaction-design.org/literature/article/the-golden-ratio-principles-of-form-and-layout)
 - [UI Patterns](http://ui-patterns.com/patterns)
 - [Practical UI](https://www.practical-ui.com/)
+- [Laws of UX](https://lawsofux.com/)
 
 ### Practical Exercise
 
