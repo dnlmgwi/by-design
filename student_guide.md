@@ -34,6 +34,7 @@
 - [UI Patterns](http://ui-patterns.com/patterns)
 - [Practical UI](https://www.practical-ui.com/)
 - [Laws of UX](https://lawsofux.com/)
+- [Principles of Design](https://tenprinciples.design/)
 
 ### Practical Exercise
 

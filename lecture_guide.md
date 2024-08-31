@@ -55,6 +55,7 @@
   - [UI Design Principles](https://refactoringui.com/)
   - [Practical UI](https://www.practical-ui.com/)
   - [Laws of UX](https://lawsofux.com/)
+  - [Principles of Design](https://tenprinciples.design/)
 
 ### 5. Design Patterns and Components (10 minutes)
 
